@@ -1,0 +1,8 @@
+c:\users\apswonsusd\source\repos\DIVE\DIVE\bin\Debug\DIVE.dll
+c:\users\apswonsusd\source\repos\DIVE\DIVE\bin\Debug\DIVE.pdb
+c:\users\apswonsusd\source\repos\DIVE\DIVE\bin\Debug\Neo.SmartContract.Framework.dll
+c:\users\apswonsusd\source\repos\DIVE\DIVE\obj\Debug\DIVE.csproj.CoreCompileInputs.cache
+c:\users\apswonsusd\source\repos\DIVE\DIVE\obj\Debug\DIVE.csproj.CopyComplete
+c:\users\apswonsusd\source\repos\DIVE\DIVE\obj\Debug\DIVE.dll
+c:\users\apswonsusd\source\repos\DIVE\DIVE\obj\Debug\DIVE.pdb
+C:\Users\Apswonsusd\source\repos\DIVE\DIVE\obj\Debug\DIVE.csprojAssemblyReference.cache
